@@ -1,0 +1,187 @@
+*{
+    box-sizing: border-box;
+}
+.b{
+    width: 200px;
+    height: 200px;
+}
+.r{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px;
+    padding-left: 20px;
+
+
+}
+.s{
+    position:absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    
+}
+.red{
+    display: flex;
+    flex-direction: row;
+}
+.red h1{
+    padding-left: 150px;
+}
+.d{
+    padding-left: 230px;
+
+}
+.sam{
+    display: flex;
+    flex-direction: row;
+}
+.tr{
+    padding-left: 120px;
+}
+.tic{
+    border: solid 4px rgb(99, 98, 98);
+    background-color: rgb(99, 98, 98);
+    width: 150px;
+    height: 30px;
+    border-bottom-right-radius: 30px;
+    padding-left: 30px;
+}
+.red{
+    display: flex;
+    flex-direction: row;
+}
+.rose{
+    padding-top: 100px;
+    font-size: 2rem;
+    font-weight:100;
+    color: palevioletred;
+
+}
+.q{
+    border: solid 6px rgb(103, 105, 103);
+    text-align: center;
+    height: 80px;
+    margin-bottom: 20px;
+    width: 0700px;
+    border-radius: 40px;
+    font-family: fantasy;
+}
+.w{
+    border: solid 6px rgb(103, 105, 103);
+    text-align: center;
+    align-items: center;
+    height: 80px;
+    margin-bottom: 20px;
+    border-radius: 40px;
+    font-family: fantasy;
+    
+
+}
+.e{
+    border: solid 6px rgb(103, 105, 103);
+    text-align: center;
+    margin-bottom: 20px;
+    height: 80px;
+    border-radius: 40px;
+    font-family: fantasy;
+
+}
+.g{
+    border: solid 6px rgb(103, 105, 103);
+    text-align: center;
+    height: 80px;
+    margin-bottom: 20px;
+    border-radius: 40px;
+    font-family: fantasy;
+}
+.raj{
+    position:absolute;
+    z-index: -1;
+}
+.ramesh{
+    display: flex;
+    flex-direction: row;
+}
+.tree{
+    padding-top: 100px;
+    padding-left: 20px;
+}
+.trip{
+    text-align:end;
+    color: rgb(18, 77, 72);
+    font-size: 20px;
+    font-weight: 900;
+}
+.rocky{
+    width: 320px;
+    height: 400px;
+    background-color: black;
+    border-radius: 50px;
+    margin-top: 30px;
+    color: white;
+    position: absolute;
+    box-sizing: border-box;
+    margin-left: 550px;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+.avatar{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: -44px;
+    left: 110px;
+
+}
+.rabit{
+    text-align: center;
+    padding-right: 65px;
+    font-family: sans-serif;
+}
+.rocky p{
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: -10px;
+    margin-bottom: -5px;
+}
+.rocky input{
+    margin-bottom: 20px;
+    width: 243px;
+}
+.trap{
+    border: none;
+    border-bottom: 1px solid white;
+    background: transparent;
+    height: 40px;
+    outline: none;
+    color: white;
+    font-size: 16px;
+
+}
+.redd{
+    height: 40px;
+    color: white;
+    background: orangered;
+    border-radius: 20px;
+}
+.redd:hover{
+    cursor: pointer;
+    background-color:red;
+    color: white;
+}
+.ramp{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    
+}
+.ramp a{
+    color: darkgray;
+    line-height: 20px;
+    text-decoration: none;
+
+}
+.ramp a:hover{
+    color: orangered;
+}
